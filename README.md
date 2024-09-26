@@ -27,3 +27,16 @@ The WiCyS Target CTF is a cyber defense challenge offering hands-on experience a
 
 
 ## Offense
+| CTF | Status | 
+|---  |---     |
+| O1: Find your Targets |  Not started |
+| O2: Build a Credential Harvester | Not started |
+| O3: Constructing your Phish |  Not started |
+| O4: Use your Captured Creds |  Not started |
+| O5: Take Over an EDR Account | Not started |
+| O6: Find a Way In |  Not started |
+| O7: Bypass the EDR |  Not started |
+| O8: Performing an Exfil of a Filesystem |  Not started |
+| O9.1: Escalate your Privileges |  Not started |
+| O9.2: Escalate your Privileges  |  Not started |
+| O10: Sell your Access |  Not started |
