@@ -4,7 +4,7 @@ The WiCyS Target CTF is a cyber defense challenge offering hands-on experience a
 ## Defense
 | CTF | Status | 
 |---  |---     |
-| D1: Secure Your Perimter |  Not started |
+| D1: Secure Your Perimter |  [Completed](Defense/D1.md) |
 | D2: Look for Insider Threats | Not started |
 | D3: Investigate a Suspicious Email |  Not started |
 | D4: Write IOC detection |  Not started |
