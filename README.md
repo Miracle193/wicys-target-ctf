@@ -1,11 +1,11 @@
-# WiCyS Target CTF - Tier 1
-The WiCyS Target CTF is a cyber defense challenge offering hands-on experience and a taste of what it’s like to be on a cyber defense team. Participants play both the threat actor and the defender during a high-stakes attack against a casino.
+# WiCyS Target CTF - Tier 1 (2024)
+The WiCyS Target CTF is an annual cyber defense challenge offering hands-on experience and a taste of what it’s like to be on a cyber defense team. Participants play both the threat actor and the defender during a high-stakes attack against a casino.
 
 ## Defense
 | CTF | Status | 
 |---  |---     |
 | D1: Secure Your Perimter |  [Completed](Defense/D1.md) |
-| D2: Look for Insider Threats | Not started |
+| D2: Look for Insider Threats | [Completed](Defense/D2.md) |
 | D3: Investigate a Suspicious Email |  Not started |
 | D4: Write IOC detection |  Not started |
 | D5.1: Identify compromised user | Not started |
