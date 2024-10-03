@@ -6,7 +6,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 |---  |---     |
 | D1: Secure Your Perimter |  [Completed](Defense/D1.md) |
 | D2: Look for Insider Threats | [Completed](Defense/D2.md) |
-| D3: Investigate a Suspicious Email |  Not started |
+| D3: Investigate a Suspicious Email |  [Completed](Defense/D3.md) |
 | D4: Write IOC detection |  Not started |
 | D5.1: Identify compromised user | Not started |
 | D5.2: Identify compromised user |  Not started |
