@@ -12,7 +12,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | D5.2: Identify compromised user |  [Completed](Defense/D5.2.md) |
 | D5.3: Identify compromised user |  [Completed](Defense/D5.3.md) |
 | D5.4: Identify compromised user |  [Completed](Defense/D5.4.md) |
-| D6: PCAP Analysis |  Not started |
+| D6: PCAP Analysis |  [Completed](Defense/D6.md) |
 | D7.1: Review Connection Logs (Host A) |  Not started |
 | D7.2: Review Connection Logs (Host A) |  Not started |
 | D8: YARA Analysis |  Not started |
