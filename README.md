@@ -20,7 +20,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | D9.2: Review Connection Logs (Host B) |  [Completed](Defense/D9.2.md) |
 | D10.1: Strelka Analysis |  [Completed](Defense/D10.1.md) |
 | D10.2: Strelka Analysis |  [Completed](Defense/D10.2.md) |
-| D10.3: Strelka Analysis |  Not started |
+| D10.3: Strelka Analysis |  [Completed](Defense/D10.3.md) |
 | D10.4: Strelka Analysis |  Not started |
 | D10.5: Strelka Analysis |  Not started |
 | D11: Strelka Analysis |  Not started |
