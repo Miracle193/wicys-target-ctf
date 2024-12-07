@@ -4,7 +4,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 ## Defense
 | CTF | Status | 
 |---  |---     |
-| D1: Secure Your Perimter |  [Completed](Defense/D1.md) |
+| D1: Secure Your Perimeter |  [Completed](Defense/D1.md) |
 | D2: Look for Insider Threats | [Completed](Defense/D2.md) |
 | D3: Investigate a Suspicious Email |  [Completed](Defense/D3.md) |
 | D4: Write IOC detection |  [Completed](Defense/D4.md)  |
@@ -21,7 +21,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | D10.1: Strelka Analysis |  [Completed](Defense/D10.1.md) |
 | D10.2: Strelka Analysis |  [Completed](Defense/D10.2.md) |
 | D10.3: Strelka Analysis |  [Completed](Defense/D10.3.md) |
-| D10.4: Strelka Analysis |  Not started |
+| D10.4: Strelka Analysis |  [Completed](Defense/D10.4.md) |
 | D10.5: Strelka Analysis |  Not started |
 | D11: Strelka Analysis |  Not started |
 
