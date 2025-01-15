@@ -35,7 +35,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | O4: Use your Captured Creds |  [Completed](Offense/O4.md) |
 | O5: Take Over an EDR Account | [In Progress](Offense/O5.md) |
 | O6: Find a Way In |  [Completed](Offense/O6.md) |
-| O7: Bypass the EDR |  Not started |
+| O7: Bypass the EDR |  [In Progress](Offense/O7.md) |
 | O8: Performing an Exfil of a Filesystem |  Not started |
 | O9.1: Escalate your Privileges |  Not started |
 | O9.2: Escalate your Privileges  |  Not started |
