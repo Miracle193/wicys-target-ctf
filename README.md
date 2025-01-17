@@ -36,7 +36,7 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | O5: Take Over an EDR Account | [In Progress](Offense/O5.md) |
 | O6: Find a Way In |  [Completed](Offense/O6.md) |
 | O7: Bypass the EDR |  [Completed](Offense/O7.md) |
-| O8: Performing an Exfil of a Filesystem |  Not started |
+| O8: Performing an Exfil of a Filesystem |  [In Progress](Offense/O8.md) |
 | O9.1: Escalate your Privileges |  Not started |
 | O9.2: Escalate your Privileges  |  Not started |
 | O10: Sell your Access |  Not started |
