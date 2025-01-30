@@ -39,4 +39,4 @@ The WiCyS Target CTF is an annual cyber defense challenge offering hands-on expe
 | O8: Performing an Exfil of a Filesystem |  [In Progress](Offense/O8.md) |
 | O9.1: Escalate your Privileges |  [Completed](Offense/O9.1.md) |
 | O9.2: Escalate your Privileges  |  [Completed](Offense/O9.2.md) |
-| O10: Sell your Access |  [In Progress](Offense/O10.md) |
+| O10: Sell your Access |  [Completed](Offense/O10.md) |
